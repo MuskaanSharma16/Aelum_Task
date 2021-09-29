@@ -1,0 +1,5 @@
+Download Zip file
+Extract into the XAMPP->htdocs
+create a database named as "task"
+Import " user.sql" file in localhost/phpmyadmin
+Run index file in localhost through browser.
